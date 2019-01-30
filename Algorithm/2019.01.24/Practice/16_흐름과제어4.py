@@ -19,3 +19,4 @@ for i in T:
     else:
         cab +=1
 
+print(f'{ca} {cb} {co} {cab}')
