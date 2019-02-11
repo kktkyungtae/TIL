@@ -1,14 +1,21 @@
-a = int(input("숫자를 입력하세요 : "))
 
-x = []
-b = 1
-d = []
-for i in range(1,3):
-    x.append(b)
-    b += i - 1
-    for j in range(0,a):
-        c = 0
-        c = x[j] + x[j]
+# def fib(n) :
+#     if n == 1 or n == 2 :
+#         return 1
+#     return fib(n - 1) + fib(n - 2)
+#
+# print(fib(13))
 
-print(x)
+d = int(input())
 
+def fibo(d):
+    a = 0
+    b = 1
+    c = a + b
+    while c < d:
+        print(c, end = " ")
+        c = a + b
+        a = b
+        b = c
+
+fibo(d)
