@@ -1,13 +1,13 @@
-import sys
-sys.stdin = open('6_input.txt','r')
+# import sys
+# sys.stdin = open('6_input.txt','r')
 
 T = int(input())
 
 for test_case in range(T):
     lens = int(input())
 
-    li = [[1],[1,1]]
-    for i in range(2,lens):
+    li = [[1]]
+    for i in range(1,lens):
         li.append([1]*(i+1))
 
     for i in range(1,lens):
