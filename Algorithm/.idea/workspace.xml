@@ -2,19 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1233f1ac-f007-471f-a3f5-dad5f89692fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2019.03/25/BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/25/연습1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/25/연습2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/25/연습3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/25/재귀순열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/1038_감소하는수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/11047_동전.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/11399_ATM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/14889_스타트와링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/14889_스타트와링크2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.03/26/1931_회의실배정.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/BASIC/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/BASIC/동전교환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/연습1_퀵정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/연습2_부분집합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/연습2_부분집합2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/연습3_트리순회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/27/연습4_백트래킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/28/01_동철.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/28/01_동철_BY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/29/1_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/29/1_input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/29/3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.03/29/3_input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/01_전기버스2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/02_Ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/02_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/03_stack구현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/04_DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/04_DFS0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/05_BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.04/01/06_그룹나누기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019.03/26/1038_감소하는수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019.03/26/1038_감소하는수.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,26 +33,98 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algorithm$js_bank_work.coverage" NAME="js_bank_work Coverage Results" MODIFIED="1553134024890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/21" />
+    <SUITE FILE_PATH="coverage/Algorithm$2_2.coverage" NAME="연습2_부분집합2 Coverage Results" MODIFIED="1553666491091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/27" />
+    <SUITE FILE_PATH="coverage/Algorithm$01__BY.coverage" NAME="01_동철_BY Coverage Results" MODIFIED="1553734058398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/28" />
     <SUITE FILE_PATH="coverage/Algorithm$11399_ATM.coverage" NAME="11399_ATM Coverage Results" MODIFIED="1553588072922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
-    <SUITE FILE_PATH="coverage/Algorithm$2.coverage" NAME="연습문제2 Coverage Results" MODIFIED="1553059298999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
-    <SUITE FILE_PATH="coverage/Algorithm$1038_.coverage" NAME="1038_감소하는수 Coverage Results" MODIFIED="1553583308768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
+    <SUITE FILE_PATH="coverage/Algorithm$2_.coverage" NAME="연습2_부분집합 Coverage Results" MODIFIED="1553666180529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/27" />
+    <SUITE FILE_PATH="coverage/Algorithm$1038_.coverage" NAME="1038_감소하는수 Coverage Results" MODIFIED="1553590062626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="연습1 Coverage Results" MODIFIED="1553128721357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
-    <SUITE FILE_PATH="coverage/Algorithm$_.coverage" NAME="\ Coverage Results" MODIFIED="1553133251000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$4_.coverage" NAME="연습4_백트래킹 Coverage Results" MODIFIED="1553733315311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/27" />
     <SUITE FILE_PATH="coverage/Algorithm$1931_.coverage" NAME="1931_회의실배정 Coverage Results" MODIFIED="1553575981524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
+    <SUITE FILE_PATH="coverage/Algorithm$14889_.coverage" NAME="14889_스타트와링크 Coverage Results" MODIFIED="1553566327056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
+    <SUITE FILE_PATH="coverage/Algorithm$02_Ladder.coverage" NAME="02_Ladder Coverage Results" MODIFIED="1554080690594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.04/01" />
+    <SUITE FILE_PATH="coverage/Algorithm$2__1.coverage" NAME="서울2반_김경태_문제1 Coverage Results" MODIFIED="1553820506679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/29" />
+    <SUITE FILE_PATH="coverage/Algorithm$2_1.coverage" NAME="단2_1 Coverage Results" MODIFIED="1553133202199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$m_2.coverage" NAME="m_단순2진암호코드 Coverage Results" MODIFIED="1553133275609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$03__stack.coverage" NAME="03_연습_stack Coverage Results" MODIFIED="1554084675888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.04/01" />
+    <SUITE FILE_PATH="coverage/Algorithm$js_bank_work.coverage" NAME="js_bank_work Coverage Results" MODIFIED="1553134024890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/21" />
+    <SUITE FILE_PATH="coverage/Algorithm$3_.coverage" NAME="연습3_트리순회 Coverage Results" MODIFIED="1553670592320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/27" />
+    <SUITE FILE_PATH="coverage/Algorithm$2.coverage" NAME="연습문제2 Coverage Results" MODIFIED="1553059298999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$2__3.coverage" NAME="서울2반_김경태_문제3 Coverage Results" MODIFIED="1553826515615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/29" />
+    <SUITE FILE_PATH="coverage/Algorithm$_.coverage" NAME="\ Coverage Results" MODIFIED="1553133251000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$04_DFS.coverage" NAME="04_DFS Coverage Results" MODIFIED="1554086721046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.04/01" />
     <SUITE FILE_PATH="coverage/Algorithm$11047_.coverage" NAME="11047_동전 Coverage Results" MODIFIED="1553580373618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="연습3 Coverage Results" MODIFIED="1553493973052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/25" />
     <SUITE FILE_PATH="coverage/Algorithm$123.coverage" NAME="123 Coverage Results" MODIFIED="1553566025494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
-    <SUITE FILE_PATH="coverage/Algorithm$14889_.coverage" NAME="14889_스타트와링크 Coverage Results" MODIFIED="1553566327056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
     <SUITE FILE_PATH="coverage/Algorithm$1931_2.coverage" NAME="1931_회의실배정2 Coverage Results" MODIFIED="1553575661446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/26" />
-    <SUITE FILE_PATH="coverage/Algorithm$2_1.coverage" NAME="단2_1 Coverage Results" MODIFIED="1553133202199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
-    <SUITE FILE_PATH="coverage/Algorithm$m_2.coverage" NAME="m_단순2진암호코드 Coverage Results" MODIFIED="1553133275609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/20" />
+    <SUITE FILE_PATH="coverage/Algorithm$1_.coverage" NAME="연습1_퀵정렬 Coverage Results" MODIFIED="1553654237870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/27" />
+    <SUITE FILE_PATH="coverage/Algorithm$06_.coverage" NAME="06_그룹나누기 Coverage Results" MODIFIED="1554104208421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.04/01" />
+    <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01_동철 Coverage Results" MODIFIED="1553733881793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/28" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="정식이의은행업무 Coverage Results" MODIFIED="1553136664974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.03/21" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/06_그룹나누기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/05_BFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/04_DFS0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/04_DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019.03/26/1038_감소하는수.py">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/03_stack구현.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/02_Ladder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/02_input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.04/01/01_전기버스2.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -61,30 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/18_흐름과제어28.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/19_흐름과제어29.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/20_흐름과제어30.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/21_흐름과제어31.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/22_흐름과제어32.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/23_함수기초34.py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/23_함수기초34(x).py" />
-        <option value="$PROJECT_DIR$/2019.01.24/Practice/23_함수.py" />
-        <option value="$PROJECT_DIR$/2019.01.30/GNS.py" />
-        <option value="$PROJECT_DIR$/2019.01.30/gns_강사.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/문자열비교..py" />
-        <option value="$PROJECT_DIR$/2019.01.31/문자열비교.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Brute_Force.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/gns_강사.py" />
-        <option value="$PROJECT_DIR$/2019.01.30/연습1_reverse.py" />
-        <option value="$PROJECT_DIR$/2019.01.30/연습2_itoa.py" />
-        <option value="$PROJECT_DIR$/2019.01.30/연습3_BruteForce.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/prac_!.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/01_함수34.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/34함수_회기.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/36함수_소수.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/37함수_피노나치.PY.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/37함수_피노나치.py" />
-        <option value="$PROJECT_DIR$/2019.01.31/Practice/prac_1.py" />
         <option value="$PROJECT_DIR$/2019.03/20/연습문제2.py" />
         <option value="$PROJECT_DIR$/2019.03/20/연습1.py" />
         <option value="$PROJECT_DIR$/2019.03/20/연습2.py" />
@@ -112,14 +170,38 @@
         <option value="$PROJECT_DIR$/2019.03/26/11047_동전.py" />
         <option value="$PROJECT_DIR$/2019.03/26/11399_ATM.py" />
         <option value="$PROJECT_DIR$/2019.03/26/1038_감소하는수.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/1.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/동전교환.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/연습1_퀵정렬.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/연습2_부분집합.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/연습2_부분집합2.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/연습3_트리순회.py" />
+        <option value="$PROJECT_DIR$/2019.03/27/연습4_백트래킹.py" />
+        <option value="$PROJECT_DIR$/2019.03/28/01_동철_BY.py" />
+        <option value="$PROJECT_DIR$/2019.03/28/01_동철.py" />
+        <option value="$PROJECT_DIR$/2019.03/29/1_input.txt" />
+        <option value="$PROJECT_DIR$/2019.03/29/1_input2.txt" />
+        <option value="$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제1.py" />
+        <option value="$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제2.py" />
+        <option value="$PROJECT_DIR$/2019.03/29/2_input.txt.py" />
+        <option value="$PROJECT_DIR$/2019.03/29/2_input.txt" />
+        <option value="$PROJECT_DIR$/2019.03/29/3_input2.txt" />
+        <option value="$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제3.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/01_전기버스2.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/02_Ladder.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/03_연습.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/03_연습_stack.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/04_DFS.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/05_BFS.py" />
+        <option value="$PROJECT_DIR$/2019.04/01/06_그룹나누기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="815" />
-    <option name="y" value="71" />
-    <option name="width" value="1074" />
-    <option name="height" value="922" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="41" />
+    <option name="y" value="76" />
+    <option name="width" value="1088" />
+    <option name="height" value="926" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,6 +211,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,24 +232,13 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="2019.03" type="462c0819:PsiDirectoryNode" />
+              <item name="2019.04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="2019.03" type="462c0819:PsiDirectoryNode" />
-              <item name="26" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="2019.04" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,13 +253,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\TIL\Algorithm\2019.03\27\BASIC" />
       <recent name="C:\Users\student\TIL\Algorithm\2019.01.30" />
       <recent name="C:\Users\student\TIL\Algorithm\2019.01.31" />
       <recent name="C:\Users\student\TIL\Algorithm\Mark_Down" />
       <recent name="C:\Users\student\TIL\Algorithm\2019.01.24" />
-      <recent name="C:\Users\student\TIL\Algorithm\2019.01.17" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\TIL\Algorithm\2019.03\27" />
       <recent name="C:\Users\student\TIL\Algorithm\2019.01.31" />
       <recent name="C:\Users\student\TIL\Algorithm\2019.01.24" />
     </key>
@@ -194,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11399_ATM">
+  <component name="RunManager" selected="Python.06_그룹나누기">
     <configuration name="정식이의은행업무" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1038_감소하는수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +308,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.04/01" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/26/1038_감소하는수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.04/01/02_Ladder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11047_동전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_연습_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,12 +330,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.04/01" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/26/11047_동전.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\TIL\Algorithm\2019.04\01\03_stack구현.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +344,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11399_ATM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,12 +352,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.04/01" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/26/11399_ATM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.04/01/04_DFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +366,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1931_회의실배정" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06_그룹나누기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,12 +374,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.04/01" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/26/1931_회의실배정.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.04/01/06_그룹나누기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +388,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1931_회의실배정2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="서울2반_김경태_문제3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,12 +396,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.03/29" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/26/1931_회의실배정2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11399_ATM" />
-        <item itemvalue="Python.1038_감소하는수" />
-        <item itemvalue="Python.11047_동전" />
-        <item itemvalue="Python.1931_회의실배정" />
-        <item itemvalue="Python.1931_회의실배정2" />
+        <item itemvalue="Python.06_그룹나누기" />
+        <item itemvalue="Python.04_DFS" />
+        <item itemvalue="Python.03_연습_stack" />
+        <item itemvalue="Python.02_Ladder" />
+        <item itemvalue="Python.서울2반_김경태_문제3" />
       </list>
     </recent_temporary>
   </component>
@@ -352,12 +435,16 @@
       <workItem from="1553208873875" duration="3630000" />
       <workItem from="1553468808628" duration="848000" />
       <workItem from="1553478177842" duration="11534000" />
-      <workItem from="1553559057528" duration="23520000" />
+      <workItem from="1553559057528" duration="24521000" />
+      <workItem from="1553641220411" duration="13112000" />
+      <workItem from="1553731724655" duration="5576000" />
+      <workItem from="1553817969194" duration="9073000" />
+      <workItem from="1554077441916" duration="10917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56975000" />
+    <option name="totallyTimeSpent" value="96654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,15 +456,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="815" y="71" width="1074" height="922" extended-state="0" />
+    <frame x="41" y="76" width="1088" height="926" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36982247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35505837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3772846" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36623377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32380953" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,7 +479,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32976654" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,77 +497,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019.01.24/Practice/01_달팽이.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.24/SWEA2/01_색칠하기.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.24/Practice/02_인치변환.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/문자열비교.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/Brute_Force.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/GNS_test_input.txt" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/gns_강사.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/색칠하기_강사.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/연습3_BruteForce.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/연습2_itoa.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/연습1_reverse.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/GNS.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/Practice/34함수_회기.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/GNS_test_input.txt" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/Practice/36함수_소수(x).py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/Practice/37함수_피노나치.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/Practice/prac_1.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/1문자열비교.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/2회문.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/3글자수.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/4회문2.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.30/부분집합의합_강사.py" />
-    <entry file="file://$PROJECT_DIR$/2019.01.31/5민석이의과제.py" />
-    <entry file="file://$PROJECT_DIR$/2019.03/20/2019.03.02_알고리즘 보충.md" />
-    <entry file="file://$PROJECT_DIR$/2019.03/20/단2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/20/단순2진암호코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/21/js_bank_work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019.03/21/js_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/20/연습2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/20/연습문제2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/20/연습문제1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -498,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/20/연습1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019.03/22/ladder1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
@@ -519,33 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/25/연습2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/25/연습3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019.03/25/재귀순열.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/25/연습1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/26/1827_여행가이드.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/26/1827_여행가이드.py" />
     <entry file="file://$PROJECT_DIR$/2019.03/26/123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -553,20 +543,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/26/14889_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.03/26/1931_회의실배정2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/26/14889_input.txt" />
+    <entry file="file://$PROJECT_DIR$/2019.03/26/1931_회의실배정2.py" />
     <entry file="file://$PROJECT_DIR$/2019.03/26/1931_회의실배정.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -603,7 +581,224 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2019.03/26/1038_감소하는수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/BASIC/동전교환.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/20/연습문제2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/20/연습문제1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/20/연습3.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/20/연습2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/20/연습1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/BASIC/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/연습1_퀵정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/연습3_트리순회.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/28/01_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/28/01_동철.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/28/01_동철_BY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/연습2_부분집합2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/27/연습2_부분집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/25/연습1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/25/연습2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/25/연습3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제2" />
+    <entry file="file://$PROJECT_DIR$/2019.03/29/2_input.txt.py" />
+    <entry file="file://$PROJECT_DIR$/2019.03/27/연습4_백트래킹.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/서울2반_김경태_문제3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/3_input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/3_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/1_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.03/29/1_input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/06_그룹나누기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/05_BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/04_DFS0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/04_DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/02_Ladder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/02_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/01_전기버스2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.04/01/03_stack구현.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
